@@ -12,8 +12,9 @@
 - Nesse arquivo é possível retirar acentos de palavras ou textos.
 <br>
 
-
-
+### Tratamento de tabela com datas em coluna.xlsx
+- A tabela apresentada possue todas as informações de dados em colunas. Foi tratada essa base (colocando as datas em linha) e adicionado no modelo de dados, para melhor análise das informações.
+<br>
 
 
 <!--
