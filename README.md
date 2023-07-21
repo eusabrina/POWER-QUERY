@@ -8,6 +8,10 @@
 - Nesse arquivo é possível incluir Data e/ou Variáveis nas Filiais da empresa. Com o objetivo de monta uma estrutura de banco de dados para preenchimento ou realização de contas.
 <br>
 
+### Tirar Acento de Palavras.xlsx
+- Nesse arquivo é possível retirar acentos de palavras ou textos.
+<br>
+
 
 
 
